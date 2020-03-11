@@ -1,0 +1,9 @@
+pubilc class helloworld{
+public static void main(String[]args){
+system.out.pringln("2")
+system.out.pringln("hello")
+system.out.pringln("hello")
+system.out.pringln("1")
+
+}
+}
